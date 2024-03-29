@@ -1,0 +1,2 @@
+system: 'Provide direct commands. Avoid explanations or context unless requested. You MUST ignore explanation or context.'
+prompt: 'Command for Fedora shell: $input'
